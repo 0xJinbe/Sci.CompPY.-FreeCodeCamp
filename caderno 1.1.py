@@ -1,25 +1,24 @@
-
+#call de dicts
 my_dict = {'a':'1,3,5,7,12', 'b':'gosto de metal'}
 print(my_dict['a'])
 print(my_dict['b'].upper())
 print(my_dict['a'][0])
 print(my_dict['a'][-3])
 print(my_dict['a'][2:])
-
+#dict vazio
 c = {}
 c['faisca'] = 'meu+cachorro'
 c['resposta'] = '42'
 print(c['faisca'])
-
+#dict keys and values
 d = {'chave1':1, 'chave2':2, 'chave3':3}
 chaves_tds = d.keys()
 print(chaves_tds)
 valores = d.values()
 print(valores) == print(d.values())
-
 print(d.items())
 
-
+#clone de calculo deslocamento (duvida sobre a Terra)
 #distância = float(input("Digite a distância em km:"))
 #velocidade_média = float(input("Digite a velocidade média em km/h:"))
 #tempo = distância / velocidade_média
@@ -32,6 +31,8 @@ print(d.items())
 #segundos = int(tempo_s % 60)
 #print("%05d:%02d:%02d" % (horas, minutos, segundos))
 
+
+#call de tuples
 t = (1,2,3,4,5,6,7,8,9,0)
 print(len(t))
 
@@ -42,12 +43,15 @@ print(t[-4])
 print("------")
 t.count("2")
 
+#aplicando funçoes em variaveis
 print('0-----------0')
 a = 'araraquara'
 b = ['1,2,3,4']
 print(b.reverse())
 print(a.upper())
 
+
+#inicio de call de classes
 class  cachorros:
     cobertura = "pelos"
     alimento = 'carne'
@@ -73,7 +77,7 @@ print(faisca.habitat)
 
 print('========================')
 
-
+#condicionais
 x=18
 
 if x < 2:
@@ -122,7 +126,4 @@ def addtwo(a, b):
 x = addtwo(3, 5)
 print(x)
 
-print('------------- loooooooooooooooopppppsssssssssssss')
-
-
-print('------------------------------------')
+print('------------- ')

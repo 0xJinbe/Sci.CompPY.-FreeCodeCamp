@@ -1,8 +1,10 @@
+
+
+#função com return
+
 def quantidade_de_letras(palavra):
     quantidade = len(palavra)
     return quantidade
-
-
 a = input('Digite uma palavra...     ')
 b = input('Digite outra palavra...     ')
 
@@ -16,10 +18,9 @@ else:
     print
     'A menor palavra e ',
 
-###############################################################################################################
-
-
 sair = input('Tecle <ENTER> para encerrar...')
+
+###############################################################################################################
 
 # This is a really basic User Login Interface that may be slapped into another
 # script that fuctions differently for different users. Security and other features
