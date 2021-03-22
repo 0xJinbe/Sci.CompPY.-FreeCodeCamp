@@ -11,3 +11,4 @@ Vários arquivos contendo estudos variados de funcionalidades em python.\n
 1.8 = Dicts and lists, common uses: overwriting, histograma contando valores, GET aplicação contanto valores em dict, contando palavras em um texto, definite loops in dicts, 2 iterations variables.
 1.9 = If and for exercises
 2.0 = Exercícios while.\n
+2.1 = Funções, retornos multiplos, função lambda, função lmabda dentro de função. 
