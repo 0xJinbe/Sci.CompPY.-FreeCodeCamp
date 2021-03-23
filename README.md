@@ -12,3 +12,4 @@ Vários arquivos contendo estudos variados de funcionalidades em python.\n
 1.9 = If and for exercises
 2.0 = Exercícios while.\n
 2.1 = Funções, retornos multiplos, função lambda, função lmabda dentro de função. 
+2.2 = IMPORTANTE: Classes, atributos e métodos. instanciando objetos. manipulando objetos com os metodos da classe. iteração com objetos. encapsulamento. atributos privados. GET e SET. métodos privados. 
