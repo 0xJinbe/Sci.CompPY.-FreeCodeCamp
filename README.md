@@ -14,3 +14,4 @@ Vários arquivos contendo estudos variados de funcionalidades em python.\n
 2.1 = Funções, retornos multiplos, função lambda, função lmabda dentro de função. 
 2.2 = IMPORTANTE: Classes, atributos e métodos. instanciando objetos. manipulando objetos com os metodos da classe. iteração com objetos. encapsulamento. atributos privados. GET e SET. métodos privados. 
 2.3 = Projeto basico Voitto. listas com for, lambdas, criando grafico com matplotlib
+2.4 = Exercícios sobre random com condicionais, while e for...
