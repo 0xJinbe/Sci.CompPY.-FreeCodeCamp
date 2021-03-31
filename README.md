@@ -16,3 +16,4 @@ Vários arquivos contendo estudos variados de funcionalidades em python.\n
 2.3 = Projeto basico Voitto. listas com for, lambdas, criando grafico com matplotlib
 2.4 = Exercícios sobre random com condicionais, while e for...
 2.5 = Tuples. Sorting in tuples, sorting by keys in dicts, TOP 10 most common words algort, Reg Exp, and Writing a simples web browser.
+2.6 = Web scraaping com URLLIB e BeatifulSoup4
