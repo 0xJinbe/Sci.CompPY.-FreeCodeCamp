@@ -1,7 +1,7 @@
 # cadernos-.py
 Vários arquivos contendo estudos variados de funcionalidades em python.\n
 
-1.1 = call de dicts, call de tuples, início de call de classes e condicionais, função\n
+1.1 = call de dicts, tuples, classes, condicionais, função\n
 1.2 = função com return, pequeno script de dict e login\n
 1.3 = IMPORTANTE: loop and iterations, while, if, "definate loops", largest so far, smallest so far, calculo de iterations, filtering a loop; loop c boolean variable; loop de str;\n
 1.4 = open file comands\n
@@ -17,3 +17,4 @@ Vários arquivos contendo estudos variados de funcionalidades em python.\n
 2.4 = Exercícios sobre random com condicionais, while e for...
 2.5 = Tuples. Sorting in tuples, sorting by keys in dicts, TOP 10 most common words algort, Reg Exp, and Writing a simples web browser.
 2.6 = Web scraaping com URLLIB e BeatifulSoup4
+2.7 = APIs - Maps - parsing geolocation
