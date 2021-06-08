@@ -18,3 +18,5 @@ PY. Notebooks
 2.5 = Tuples, sorting in tuples, sorting by keys in dicts, TOP 10 most common words algort, Reg Exp, and Writing a simples web browser--
 2.6 = Web scraaping com URLLIB e BeatifulSoup4--
 2.7 = APIs - Maps - parsing geolocation--
+2.8 = Objects--
+2.9 = Final Free Code Camp project--
